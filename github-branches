@@ -1,3 +1,5 @@
 git branch -v
 
-* main ad95b0a Create close_pr.yml
+  bug-fix-revert 07eb2cd Add task files for Git workflow questions 6, 8, 9
+  bug-fix-typo   07eb2cd Add task files for Git workflow questions 6, 8, 9
+* main           07eb2cd [ahead 1] Add task files for Git workflow questions 6, 8, 9
